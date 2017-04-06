@@ -1,0 +1,14 @@
+{
+    "name": "webpack-sample-project",
+    "version": "1.0.0",
+    "description": "Sample webpack project",
+    "scripts": {
+        "start": "webpack",
+        "dev": "node build/dev.js"
+    },
+    "author": "zhang",
+    "license": "ISC",
+    "devDependencies": {
+        "webpack": "^2.3.3"
+    }
+}
